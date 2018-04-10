@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523404222 source:c:\users\alumno\desktop\ordenararrayscaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
