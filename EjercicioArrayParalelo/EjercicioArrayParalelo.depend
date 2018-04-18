@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524008247 source:c:\users\alumno\desktop\ejercicioarrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"promedio.h"
+
+1524008139 c:\users\alumno\desktop\ejercicioarrayparalelo\promedio.h
+	<stdio.h>
+	<stdlib.h>
+
+1524003075 c:\users\alumno\desktop\ejercicioarrayparalelo\promedio.c
+	<stdio.h>
+	<stdlib.h>
+	"promedio.h"
+
+1524008247 source:c:\users\alumno\desktop\ejercicioarrayparalelo\promedio.c
+	<stdio.h>
+	<stdlib.h>
+	"promedio.h"
+	<string.h>
+
